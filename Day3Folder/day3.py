@@ -4,11 +4,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-Name = input("what is your name?") 
-title = input("what is your title?") 
-command = input("what is your command") 
-print( title + " " + Name + " commands the peasants to " + command)  
- 
+   
 
 
 
