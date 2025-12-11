@@ -7,8 +7,8 @@ print("hello from day3")
 Name = input("what is your name?") 
 title = input("what is your title?") 
 command = input("what is your command") 
-print( title + " " + name + "commands the peasants to") 
-
+print( title + " " + name + "commands the peasants to" + command)  
+ 
 
 
 
