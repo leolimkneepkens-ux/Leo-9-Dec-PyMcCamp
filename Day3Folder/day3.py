@@ -37,7 +37,8 @@ age1 = input("What is your age, Person A: ")
 # Task 5:
 age1 = input("What is your age, Person A: ") 
 age2 = input("What is your age, person B: ")
-
+if int(age1) > int(age2): 
+   
 
 ########################################################################
 # Task 6:
