@@ -38,7 +38,8 @@ age1 = input("What is your age, Person A: ")
 age1 = input("What is your age, Person A: ") 
 age2 = input("What is your age, person B: ")
 if int(age1) > int(age2): 
-   
+   print("person A is older)
+  
 
 ########################################################################
 # Task 6:
