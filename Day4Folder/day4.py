@@ -4,8 +4,8 @@ print("hello from day4")
 
 ########################################################################
 # Task 1:
-# counter = 0 
-while counter < 36: 
+# counter = 5
+while counter < 33: 
     print(counter) 
     counter += 1 
 
