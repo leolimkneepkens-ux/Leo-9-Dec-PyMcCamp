@@ -15,7 +15,7 @@ print( title + " " + Name + " commands the peasants to " + command)
 
 ########################################################################
 # Task 2: 
-num1 = input("Enter number 1: ")  
+num1 = input("Enter number 1: ") 
 num2 = input("Enter number 2: ") 
 answer = int(num1) + int(num2)
 print(num1 + " + " + num2 + " = " + str(answer))
