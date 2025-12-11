@@ -35,7 +35,8 @@ age1 = input("What is your age, Person A: ")
 
 ########################################################################
 # Task 5:
-age1 = input("What is your age, Person A: ")
+age1 = input("What is your age, Person A: ") 
+age2 = input
 
 
 ########################################################################
