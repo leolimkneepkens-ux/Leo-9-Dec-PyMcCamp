@@ -107,4 +107,4 @@ def DigDown():
         agent.destroy(DOWN) 
         agent.move(DOWN, 1) 
 
-player.on_chat("dig", DigDown)
+player.on_chat("dig", DigDown) r
